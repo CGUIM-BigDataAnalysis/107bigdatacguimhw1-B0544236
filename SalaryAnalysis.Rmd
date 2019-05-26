@@ -12,10 +12,10 @@ author: put your name here
 ```{r dataload}
 #install.packages("weatherData")
 #install.packages("jsonlite")
-# install.packages("dplyr")
-# install.packages("readr")
+#install.packages("dplyr")
+#install.packages("readr")
 #library(jsonlite)
-.libPaths("D:/R-3.5.2/library")
+#.libPaths("D:/R-3.5.2/library")
 library(dplyr)
 library(readr)
 
